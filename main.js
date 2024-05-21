@@ -17,10 +17,10 @@ console.log(calculateSum(5,5,5,6,5,6,56))
 const user = {
     bank: [
         {
-            empty: 'empty'
+            bankName: 'Keshbank'
         },
         {
-            empty_2: 'empty_2'
+            bankInformation: 'noinformation'
         },
         {
           address: {
